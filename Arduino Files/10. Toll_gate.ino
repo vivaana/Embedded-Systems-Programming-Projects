@@ -2,7 +2,7 @@
 const int Servop = 13;
 Servo smotor;
 const int Trig = 9;
-const int Echo = 7;
+const int Echo = 8;
 long Duration;
 int Distance;
 
